@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>continual-learning on Natalia Díaz Rodríguez, PhD</title>
+    <link>https://nataliadiaz.github.io/tags/continual-learning/</link>
+    <description>Recent content in continual-learning on Natalia Díaz Rodríguez, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://nataliadiaz.github.io/tags/continual-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continual AI</title>
+      <link>https://nataliadiaz.github.io/project/continual-ai/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/project/continual-ai/</guid>
+      <description>Continual AI is an Open Community of Researchers and Enthusiasts on Continual/Lifelong Learning and AI.</description>
+    </item>
+    
+    <item>
+      <title>DREAM EU H2020 Project</title>
+      <link>https://nataliadiaz.github.io/project/dream/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/project/dream/</guid>
+      <description>DREAM is a robotic project that incorporates sleep and dream-like processes within cognitive architecture. This enables an individual robot or groups of robots to consolidate their experience into more useful and generic formats, thus improving their future ability to learn and adapt. DREAM relies on Evolutionary Neurodynamic ensemble methods as a unifying principle for discovery, optimization, re-structuring and consolidation of knowledge. This new paradigm will make the robot more autonomous in its acquisition, organization and use of knowledge and skills just as long as they comply with the satisfaction of pre-established basic motivations.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t forget, there is more than forgetting: new metrics for Continual Learning</title>
+      <link>https://nataliadiaz.github.io/publication/cl-metrics/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/cl-metrics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

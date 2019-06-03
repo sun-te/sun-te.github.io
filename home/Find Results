@@ -1,0 +1,53 @@
+Searching 309 files for "skills"
+
+/Users/natalia/repos/My_Website/content/home/skills.md:
+    7  active = false
+    8  
+    9: title = "Skills"
+   10  subtitle = ""
+   11  
+   ..
+   13  weight = 7
+   14  
+   15: # Showcase personal skills or business features.
+   16  # 
+   17  # Add/remove as many `[[feature]]` blocks below as you like.
+
+/Users/natalia/repos/My_Website/public/index.html:
+  540    
+  541    
+  542:   <section id="skills" class="home-section">
+  543      <div class="container">
+  544        
+  ...
+  548    
+  549    <div class="col-md-12 section-heading">
+  550:     <h1>Skills</h1>
+  551      
+  552    </div>
+
+/Users/natalia/repos/My_Website/public/home/index.xml:
+   41      
+   42      <item>
+   43:       <title>Skills</title>
+   44:       <link>https://nataliadiaz.github.io/home/skills/</link>
+   45        <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+   46        
+   47:       <guid>https://nataliadiaz.github.io/home/skills/</guid>
+   48        <description></description>
+   49      </item>
+
+/Users/natalia/repos/My_Website/themes/academic/exampleSite/content/home/skills.md:
+    7  active = true
+    8  
+    9: title = "Skills"
+   10  subtitle = ""
+   11  
+   ..
+   13  weight = 7
+   14  
+   15: # Showcase personal skills or business features.
+   16  # 
+   17  # Add/remove as many `[[feature]]` blocks below as you like.
+
+9 matches across 4 files

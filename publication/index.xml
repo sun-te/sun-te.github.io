@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Natalia Díaz Rodríguez, PhD</title>
+    <link>https://nataliadiaz.github.io/publication/</link>
+    <description>Recent content in Publications on Natalia Díaz Rodríguez, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://nataliadiaz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datil: Learning Fuzzy Ontology Datatypes</title>
+      <link>https://nataliadiaz.github.io/publication/huitzil2018datil/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/huitzil2018datil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Representation Learning for Control: An Overview</title>
+      <link>https://nataliadiaz.github.io/publication/lesort2018state/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/lesort2018state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ontology for Wearables Data Interoperability and Ambient Assisted Living Application Development</title>
+      <link>https://nataliadiaz.github.io/publication/diaz2017ontology/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/diaz2017ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Couch potato or gym addict? Semantic lifestyle profiling with wearables and fuzzy knowledge graphs</title>
+      <link>https://nataliadiaz.github.io/publication/diaz2017couch/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/diaz2017couch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical activity among children: objective measurements using Fitbit Onetextregistered and ActiGraph</title>
+      <link>https://nataliadiaz.github.io/publication/hamari2017physical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/hamari2017physical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised state representation learning with robotic priors: a robustness benchmark</title>
+      <link>https://nataliadiaz.github.io/publication/lesort2017unsupervised/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/lesort2017unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised understanding of location and illumination changes in egocentric videos</title>
+      <link>https://nataliadiaz.github.io/publication/betancourt2017unsupervised/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/betancourt2017unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semantic security framework and context-aware role-based access control ontology for smart spaces</title>
+      <link>https://nataliadiaz.github.io/publication/hosseinzadeh2016semantic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/hosseinzadeh2016semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Clothing Ontologies: Modeling Fashion with Subjective Influence Networks</title>
+      <link>https://nataliadiaz.github.io/publication/bollacker2016beyond/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/bollacker2016beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medicine Tray Design and Security for Medication Administration Processes at Hospital Wards</title>
+      <link>https://nataliadiaz.github.io/publication/pradhan2016medicine/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/pradhan2016medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic and Fuzzy Modelling for Human Behaviour Recognition in Smart Spaces: A Case Study on Ambient Assisted Living</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2016semantic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2016semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation Techniques for Sensor Data in Mobile Health Applications</title>
+      <link>https://nataliadiaz.github.io/publication/pires2016validation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/pires2016validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t forget, there is more than forgetting: new metrics for Continual Learning</title>
+      <link>https://nataliadiaz.github.io/publication/cl-metrics/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/cl-metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registered Nurses’ Experiences with the Medication Administration Process</title>
+      <link>https://nataliadiaz.github.io/publication/pirinen2015registered/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/pirinen2015registered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic and fuzzy modelling for human behaviour recognition in smart spaces: a case study on ambient assisted living.</title>
+      <link>https://nataliadiaz.github.io/publication/diaz2015semantic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/diaz2015semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Dosing: A mobile application for tracking the medication tray-filling and dispensation processes in hospital wards.</title>
+      <link>https://nataliadiaz.github.io/publication/khan2015smart/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/khan2015smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fuzzy ontology for semantic modelling and recognition of human behaviour</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2014fuzzy/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2014fuzzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey on ontologies for human behavior recognition</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2014survey/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2014survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can IT health-care applications improve the medication tray-filling process at hospital wards? An exploratory study using eye-tracking and stress response</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2014can/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2014can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erratum to: Exploiting smart spaces for interactive TV applications development</title>
+      <link>https://nataliadiaz.github.io/publication/saleemi2014erratum/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/saleemi2014erratum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling Real-World Context Awareness, Uncertainty and Vagueness in Real-Time Human Activity Tracking and Recognition with a Fuzzy Ontology-Based Hybrid Method</title>
+      <link>https://nataliadiaz.github.io/publication/diaz2014handling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/diaz2014handling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S-RL Toolbox: Environments, Datasets and Evaluation Metrics for State Representation Learning</title>
+      <link>https://nataliadiaz.github.io/publication/s-rl-toolbox/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/s-rl-toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Representation Learning for Control: An Overview</title>
+      <link>https://nataliadiaz.github.io/publication/srl/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/srl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to improve semantics in Smart Spaces using reactive fuzzy rules</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2013approach/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2013approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending Semantic Web Tools for Improving Smart Spaces Interoperability and Usability</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2013extending/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2013extending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid prototyping of semantic applications in smart spaces with a visual rule language</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2013rapid/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2013rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding movement and interaction: an ontology for Kinect-based 3D depth sensors</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2013understanding/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2013understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology Driven Smart Space Application Development</title>
+      <link>https://nataliadiaz.github.io/publication/saleemi2012ontology/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/saleemi2012ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Context-Aware Applications for Smart Spaces</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2011framework/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2011framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for context-aware applications for smart spaces</title>
+      <link>https://nataliadiaz.github.io/publication/saleemi2011framework/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/saleemi2011framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming biomedical smart space applications with BioImageXD and PythonRules</title>
+      <link>https://nataliadiaz.github.io/publication/rodriguez2011programming/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://nataliadiaz.github.io/publication/rodriguez2011programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
